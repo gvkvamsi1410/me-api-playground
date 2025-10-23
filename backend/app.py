@@ -62,7 +62,7 @@ def home():
       </style>
     </head>
     <body>
-      <h1>Welcome to Me-API Playground 🚀</h1>
+      <h1>Welcome to Me-API Playground </h1>
       <p>This API exposes your personal data via REST endpoints.</p>
       <h3>Available Endpoints:</h3>
       <ul>
