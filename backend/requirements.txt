@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+SQLAlchemy==2.0.22
+alembic==1.11.1
+python-dotenv==1.0.0
